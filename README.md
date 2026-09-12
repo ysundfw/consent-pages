@@ -1,7 +1,5 @@
-# jcps-os-site
+Two static pages: a homepage and a privacy policy.
 
-The homepage and privacy policy for a personal, single-user Google OAuth
-application. Google requires both URLs to be publicly reachable before an
-app can be moved out of "Testing", where refresh tokens expire every 7 days.
-
-That is the entire purpose of this repository. Two static pages, no code.
+Google requires both to be publicly reachable before an OAuth application can
+be moved out of its "Testing" state. That is the only purpose of this
+repository. No code.
